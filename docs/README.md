@@ -1,8 +1,7 @@
 ## Samples
 
 
-<p><div align="center"> 
-<h3> Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. (Best viewed in color.) </h3> <img src="samples/Comparison_fig.1.png"  width=100%/>
+<p><div align="center"> Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. (Best viewed in color.) <img src="../samples/Comparison_fig.1.png"  width=100%/>
 <br>
 
 ### Markdown
