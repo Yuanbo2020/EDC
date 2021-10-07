@@ -19,11 +19,16 @@ predicted by the model trained with EDC.
 ## Visualization of frame-level representations distribution
 ![Image](tsne.png)
 <div align="center"> 
-Visualization of frame-level representations distribution using unsupervised t-SNE. Please note that models in this paper are trained by clip-level weak labels in datasets of DCASE and CHiME, and the label of each audio clip is a multi-hot vector, so the label corresponding to the frame-level representation is unknowable.  
+Visualization of frame-level representations distribution using unsupervised t-SNE.<br>
+Please note that models in this paper are trained by clip-level weak labels in datasets of DCASE and CHiME, and the label of each audio clip is a multi-hot vector, so the label corresponding to the frame-level representation is unknowable.  
 </div>
 
 ## The calculation procedure of EDC
 ![Image](EDC_procedure.png)
+<div align="center"> 
+For the souce code, please see <a href="https://github.com/Yuanbo2020/EDC/tree/main/Code" 
+target="https://github.com/Yuanbo2020/EDC/tree/main/Code/">here</a>.
+</div>
 
 ## Attenuation curves of different alpha
 ![Image](different_alphas.png)
@@ -40,7 +45,9 @@ target="https://github.com/Yuanbo2020/EDC/tree/main/Code/">here</a>.
 
 ## Experimental results
 ![Image](table1.png)
+<br>
 ![Image](table2.png)
+<br>
 ![Image](table3.png)
 
 ## Further comparison of the effects of EDC
