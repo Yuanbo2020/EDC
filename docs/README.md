@@ -1,9 +1,14 @@
 ## Samples
 
 
-<p><div align="center"> Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. (Best viewed in color.) 
- [Link](https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png) and ![Image]("../samples/Comparison_fig.1.png")
+<p><div align="center"> 
+ Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. (Best viewed in color.) 
+ <img src="../samples/Comparison_fig.1.png" width=50%/>
+</div></p>
+ 
 <br>
+ 
+ [Link](https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png) and ![Image]("../samples/Comparison_fig.1.png")
 
 ### Markdown
 
