@@ -8,7 +8,7 @@
  
 <br>
  
- [Link](https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png) and ![Image]("../samples/Comparison_fig.1.png")
+ [Link](https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png) and ![Image]("https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png")
 
 ### Markdown
 
