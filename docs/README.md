@@ -1,18 +1,20 @@
 ## Samples
 
-
-<p><div align="center"> 
- Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. (Best viewed in color.) 
-</div></p>
+### Sample 1
 ![Image](Comparison_fig.1.png)
-<br>
+<div align="center"> 
+ Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. <br>
+ (Best viewed in color.) 
+</div>
 
 <!-- 在此处写注释-->
 <!--
 <img src="../samples/Comparison_fig.1.png" width=50%/>
 -->
 
-
+### Sample 2
+### Sample 3
+### Sample 4
  
 
 ### Markdown
