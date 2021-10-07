@@ -5,6 +5,6 @@ target="https://yuanbo2020.github.io/EDC/">here</a>.<p></p></h3>
 
 <br>
   
-We are happy to improve and refine this method, if you have ideas, please feel free to create an issue raise the issue or contact us.
+We are happy to improve and refine the EDC, if you have ideas, please feel free to create an issue raise the issue or contact us.
 
 Mail: yuanbo.hou@ugent.be 
