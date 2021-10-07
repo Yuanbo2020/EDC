@@ -3,33 +3,16 @@
 
 <p><div align="center"> 
  Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. (Best viewed in color.) 
- <img src="../samples/Comparison_fig.1.png" width=50%/>
 </div></p>
- 
- 0
- 
-  ![Image](Comparison_fig.1.png)
-  
+![Image](Comparison_fig.1.png)
 <br>
 
- 
- [Link](https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png) and ![Image](../samples/Comparison_fig.1.png)
- 
- 1
- 
- ![Image](https://github.com/Yuanbo2020/EDC/main/samples/Comparison_fig.1.png)
- 
- 2
- 
- ![Image](https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png)
- 
- 3
- 
- ![Image](https://github.com/Yuanbo2020/EDC/blob/main/samples/sample1.png)
- 
- 4
- 
- ![Image](../samples/sample1.png)
+<!-- 在此处写注释-->
+<!--
+<img src="../samples/Comparison_fig.1.png" width=50%/>
+-->
+
+
  
 
 ### Markdown
