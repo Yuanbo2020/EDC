@@ -19,6 +19,14 @@
  
  ![Image](https://github.com/Yuanbo2020/EDC/blob/main/samples/Comparison_fig.1.png)
  
+ 3
+ 
+ ![Image](https://github.com/Yuanbo2020/EDC/blob/main/samples/sample1.png)
+ 
+ 4
+ 
+ ![Image](../samples/sample1.png)
+ 
 
 ### Markdown
 
