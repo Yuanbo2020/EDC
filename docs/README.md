@@ -46,7 +46,11 @@ target="https://github.com/Yuanbo2020/EDC/tree/main/Code/">here</a>.
 ## Experimental results
 ![Image](table1.png)
 <br>
+<br>
+<br>
 ![Image](table2.png)
+<br>
+<br>
 <br>
 ![Image](table3.png)
 
