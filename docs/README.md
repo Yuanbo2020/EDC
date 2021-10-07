@@ -6,6 +6,8 @@
  <img src="../samples/Comparison_fig.1.png" width=50%/>
 </div></p>
  
+  ![Image](Comparison_fig.1.png)
+  
 <br>
 
  
