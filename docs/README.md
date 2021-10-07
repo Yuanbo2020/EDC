@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Samples
 
-You can use the [editor on GitHub](https://github.com/Yuanbo2020/EDC/edit/main/docs/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p><div align="center"> 
+<h3> Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. (Best viewed in color.) </h3> <img src="samples/Comparison_fig.1.png"  width=100%/>
+<br>
 
 ### Markdown
 
