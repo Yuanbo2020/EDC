@@ -1,10 +1,9 @@
-## Samples
+## Samples (Best viewed in color.) 
 
 ### Sample 1
 ![Image](Comparison_fig.1.png)
 <div align="center"> 
- Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC. <br>
- (Best viewed in color.) 
+ Subgraph: (a) Log mel spectrogram; (b) Features after the self-attention; (c) Features after EDC.  
 </div>
 
 <!-- 在此处写注释-->
@@ -13,8 +12,13 @@
 -->
 
 ### Sample 2
+![Image](sample1.png)
+
 ### Sample 3
+![Image](sample2.png)
+
 ### Sample 4
+![Image](sample3.png)
  
 
 ### Markdown
