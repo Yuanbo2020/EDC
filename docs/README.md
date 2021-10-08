@@ -63,4 +63,16 @@ target="https://github.com/Yuanbo2020/EDC/tree/main/Code/">here</a>.
 
 ### Sample 3
 ![Image](sample3.png)
+
+### Sample 4
+![Image](sample4.png)
+
+### Sample 5
+![Image](sample5.png)
+
+### Sample 6
+![Image](sample6.png)
+
+### Sample 7
+![Image](sample7.png)
  
