@@ -1,3 +1,8 @@
+<div align="center"> 
+For the souce code, please see <a href="https://github.com/Yuanbo2020/EDC/tree/main/Code" 
+target="https://github.com/Yuanbo2020/EDC/tree/main/Code/">here</a>.
+</div>
+
 ## Feature comparison (Best viewed in color) 
 ![Image](Comparison_fig.1.png)
 <div align="center"> 
@@ -35,25 +40,7 @@ target="https://github.com/Yuanbo2020/EDC/tree/main/Code/">here</a>.
 <div align="center"> 
 Assuming that the attenuation starts from frame 0
 </div>
-
-## Model structure
-![Image](model_structrure.png)
-<div align="center"> 
-For the souce code, please see <a href="https://github.com/Yuanbo2020/EDC/tree/main/Code" 
-target="https://github.com/Yuanbo2020/EDC/tree/main/Code/">here</a>.
-</div>
-
-## Experimental results
-![Image](table1.png)
-<br>
-<br>
-<br>
-![Image](table2.png)
-<br>
-<br>
-<br>
-![Image](table3.png)
-
+ 
 ## Further comparison of the effects of EDC
 ### Sample 1
 ![Image](sample1.png)
