@@ -106,7 +106,7 @@ def main(argv):
     parser = argparse.ArgumentParser()
     parser.add_argument('-alpha', type=int, default=10)
     parser.add_argument('-length', type=int, default=500)
-    parser.add_argument('-sub_dir', type=str, default='weak')
+    parser.add_argument('-sub_dir', type=str, default='train')
     args = parser.parse_args()
 
     alpha = args.alpha
